@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Service_Retrait/static/css/main.3064b548.css",
+    "main.js": "/Service_Retrait/static/js/main.cb86f654.js",
+    "index.html": "/Service_Retrait/index.html",
+    "main.3064b548.css.map": "/Service_Retrait/static/css/main.3064b548.css.map",
+    "main.cb86f654.js.map": "/Service_Retrait/static/js/main.cb86f654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3064b548.css",
+    "static/js/main.cb86f654.js"
+  ]
+}
